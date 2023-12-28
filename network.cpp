@@ -1,6 +1,3 @@
-#define __NETWORK_H__
-
-
 #include <cstdlib>
 #include <ctime>
 #include <iostream>
