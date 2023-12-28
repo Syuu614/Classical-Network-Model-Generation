@@ -3,7 +3,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-#include<time.h>
+#include <time.h>
 #include <stdio.h>
 using namespace std;
 #define ERROR 0
